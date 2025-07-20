@@ -1,4 +1,4 @@
-# 🔐 Login & Registration Form - QA Project
+# 🔐 Login & Registration Form -  Project
 
 This project is a **responsive Login and Registration form** created using **HTML**, **CSS**, and **JavaScript**, designed with simple UI/UX principles. It includes **manual QA testing documentation** with test cases, results, and a detailed QA report in PDF format.
 
