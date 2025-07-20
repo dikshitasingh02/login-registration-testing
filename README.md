@@ -1,7 +1,21 @@
+# 🔐 Login & Registration Form - QA Project
+
+This project is a **responsive Login and Registration form** created using **HTML**, **CSS**, and **JavaScript**, designed with simple UI/UX principles. It includes **manual QA testing documentation** with test cases, results, and a detailed QA report in PDF format.
 
 ---
 
-## 🧪 QA Artifacts
+## 🧩 Project Features
+
+- ✅ Responsive layout for mobile and desktop
+- ✅ Real-time form validation
+- ✅ Password rules enforced (min 8 characters, at least 1 number & special character)
+- ✅ Visual error feedback
+- ✅ Manual test case coverage
+- ✅ QA report with screenshots
+
+---
+
+## 🧪  Artifacts
 
 - **Test Cases:** Covers functionality, responsiveness, and input validation
 - **Report:** Includes objectives, test strategy, scenarios, status, and evidence
